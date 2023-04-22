@@ -1,0 +1,13 @@
+server:
+  Host: "api"
+  Port: "8080"
+  LoggingLevel: "debug"
+  ReadTimeout: "15s"
+  WriteTimeout: "15s"
+
+redis:
+  Host: "redis"
+  Port: "6379"
+  Password: ""
+  Database: 0
+  CacheTime: "1h"
