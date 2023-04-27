@@ -36,9 +36,6 @@ At this time, you have a RESTful API server running at `http://localhost:8000`. 
 * [go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
 * [Docker](https://www.docker.com/) & [docker-compose](https://docs.docker.com/compose/) - Docker
 
-## Documentation
-
-[Documentation](https://github.com/Jqsm6/mal-rest-api/wiki/REST-API-Documentation)
 
 ## TODO
 
