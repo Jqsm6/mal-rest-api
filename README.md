@@ -14,7 +14,7 @@ git clone https://github.com/Jqsm6/mal-rest-api.git
 cd mal-rest-api
 
 # Copy the example configuration file and edit it to your needs
-cp config.example.yml config.example.yml
+cp config.example.yml config.yml
 
 # Start the application with Docker Compose
 docker-compose up
